@@ -1,9 +1,8 @@
-using Base;
-using Cinemachine;
 using System.Collections.Generic;
+using Cinemachine;
 using UnityEngine;
 
-namespace CameraManger.Lobby
+namespace Base.CameraWork
 {
     public class LobbyCameraManager : Singleton<LobbyCameraManager>
     {

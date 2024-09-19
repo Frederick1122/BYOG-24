@@ -1,10 +1,8 @@
-﻿using Base;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using UnityEngine;
 using Zenject;
 
-namespace Core.FSM
+namespace Base.FSM
 {
     public class FsmManager : Singleton<FsmManager>
     {

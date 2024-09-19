@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-namespace Core.Tools
+namespace Base
 {
     public static class MaterialExtension
     {

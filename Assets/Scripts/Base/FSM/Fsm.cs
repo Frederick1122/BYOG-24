@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 
-namespace Core.FSM
+namespace Base.FSM
 {
     public class Fsm : IFsm
     {

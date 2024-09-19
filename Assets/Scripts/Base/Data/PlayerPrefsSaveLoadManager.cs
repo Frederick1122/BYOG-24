@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Core.Data
+namespace Base.Data
 {
     public static class PlayerPrefsSaveLoadManager
     {

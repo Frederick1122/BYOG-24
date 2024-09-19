@@ -5,9 +5,9 @@
  * By: Alexander Biggs + Adam Robinson-Yu
  */
 
-using JetBrains.Annotations;
 using System;
 using System.Collections.Generic;
+using JetBrains.Annotations;
 using UnityEngine;
 using Object = UnityEngine.Object;
 
@@ -17,7 +17,7 @@ using Object = UnityEngine.Object;
 ///
 /// To create and start a Timer, use the <see cref="Register"/> method.
 /// </summary>
-namespace UnityTimer
+namespace Base
 {
     public class Timer
     {

@@ -1,8 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-namespace CameraManger.Rotate
+namespace Base.CameraWork
 {
     public class ObjectRotate : MonoBehaviour
     {

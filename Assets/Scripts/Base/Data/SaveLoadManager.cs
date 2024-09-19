@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Base
+namespace Base.Data
 {
     public abstract class SaveLoadManager<T, T2> : Singleton<T2> where T2 : MonoBehaviour
     {
